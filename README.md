@@ -1,6 +1,6 @@
 # 🏦 JSM Banking App
 
-A modern full-stack banking platform built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
+A modern full-stack banking platform built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**.
 
 ## 🚧 Status: Under Development
 The project is currently in its early stages. I am setting up the core functionality and folder structure.
