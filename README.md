@@ -1,23 +1,23 @@
 # 🏦 JSM Banking App
 
-En moderne fullstack bankplattform bygget med **Next.js 14**, **TypeScript** og **Tailwind CSS**.
+A modern full-stack banking platform built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
 
-## 🚧 Status: Under utvikling
-Prosjektet er for øyeblikket i en tidlig fase. Jeg holder på å sette opp kjernefunksjonalitet og mappestruktur. 
+## 🚧 Status: Under Development
+The project is currently in its early stages. I am setting up the core functionality and folder structure.
 
-### 🛠 Planlagt Tech Stack:
+### 🛠 Planned Tech Stack:
 * **Framework:** Next.js (App Router)
-* **Språk:** TypeScript
+* **Language:** TypeScript
 * **Styling:** Tailwind CSS / Shadcn UI
 * **Database:** Appwrite / PostgreSQL
-* **Betalinger:** Stripe / Plaid (Integrasjoner)
+* **Payments:** Stripe / Plaid (Integrations)
 
 ---
 
-### 🚀 Kommer snart:
-- [ ] Brukerautentisering (Sign In / Sign Up)
-- [ ] Dashbord med oversikt over transaksjoner
-- [ ] Overføring av penger mellom kontoer
-- [ ] Kobling mot ekte bankkontoer
+### 🚀 Coming Soon:
+- [ ] User Authentication (Sign In / Sign Up)
+- [ ] Dashboard with transaction overview
+- [ ] Transferring money between accounts
+- [ ] Linking to real bank accounts
 
-*Stay tuned for oppdateringer!*
+*Stay tuned for updates!*
